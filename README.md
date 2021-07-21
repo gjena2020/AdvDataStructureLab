@@ -1,5 +1,22 @@
 # AdvDataStructureLab
 Advanced Data Structures Lab for B Tech/M Tech students
+To implement functions of Dictionary using Hashing ( division method, Multiplication method, Universal hashing)
+To perform various operations i.e., insertions and deletions on AVL trees
+To perform various operations i.e., insertions and deletions on 2-3 trees
+To implement operations on binary heap
+To implement operations on graphs
+   i) vertex insertion
+   ii) Vertex deletion
+   iii) finding vertex
+   iv) Edge addition and deletion
+To implement Depth First Search for a graph non recursively
+To implement Breadth First Search for a graph non recursively
+To implement Prim’s algorithm to generate a min-cost spanning tree
+To implement Krushkal’s algorithm to generate a min-cost spanning tree
+To implement Dijkstra’s algorithm to find shortest path in the graph
+To implement pattern matching using Boyer-Moore algorithm
+To implement Knuth-Morris-Pratt algorithm for pattern matching
+
 PROG1
 To implement functions of Dictionary using Hashing ( division method, Multiplication method, Universal hashing)
 
